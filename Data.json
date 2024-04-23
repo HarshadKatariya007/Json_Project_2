@@ -1,0 +1,93 @@
+  {
+    "user": [
+      {
+        "id": "e5d0",
+        "UserName": "harshad200",
+        "Email": "katariyaharshad00@gmail.com",
+        "Password": "Admin@123"
+      }
+    ],
+    "product": [
+      {
+        "id": "3263",
+        "title": "Nike Shoe",
+        "url": "https://i.postimg.cc/nrwcWRPD/pngegg.png",
+        "price": "3000"
+      },
+      {
+        "id": "848a",
+        "title": "Nike Sneakers Basketball",
+        "url": "https://i.postimg.cc/x81J4F9v/pngegg-1.png",
+        "price": "4000"
+      },
+      {
+        "id": "b211",
+        "title": "Shoe Nike Air Max Sneakers",
+        "url": "https://i.postimg.cc/JhM3MxqF/pngegg-3.png",
+        "price": "4500"
+      },
+      {
+        "id": "19b6",
+        "title": "Nike Air Max",
+        "url": "https://i.postimg.cc/zDxzqFCc/pngegg-4.png",
+        "price": "5500"
+      },
+      {
+        "id": "438a",
+        "title": "Sneakers Lakhani",
+        "url": "https://i.postimg.cc/4yHs8rYH/pngegg-5.png",
+        "price": "3400"
+      },
+      {
+        "id": "ab0e",
+        "title": "Unpaired Green And Black Nike",
+        "url": "https://i.postimg.cc/BbFBBBGc/pngegg-6.png",
+        "price": "5500"
+      },
+      {
+        "id": "209a",
+        "title": "Unpaired Black Running Shoe",
+        "url": "https://i.postimg.cc/fL5TJ6P6/pngegg-8.png",
+        "price": "2500"
+      },
+      {
+        "id": "ef3e",
+        "title": "Sneakers Nike Court Shoe",
+        "url": "https://i.postimg.cc/k4tGhjYZ/pngegg-10.png",
+        "price": "3400"
+      },
+      {
+        "id": "1734",
+        "title": "Nike Air Max Nike",
+        "url": "https://i.postimg.cc/26vS66Wy/pngegg-11.png",
+        "price": "5500"
+      },
+      {
+        "id": "cf1c",
+        "title": "Nike Free Nike Air Max Sneakers",
+        "url": "https://i.postimg.cc/ZKpQxDX0/pngwing-com.png",
+        "price": "3400"
+      },
+      {
+        "id": "7667",
+        "title": "Neakers New Balance Shoe",
+        "url": "https://i.postimg.cc/nVRVtMLq/pngwing-com-4.png",
+        "price": "4500"
+      },
+      {
+        "id": "8f32",
+        "title": "Green Sneakers Skate Shoe",
+        "url": "https://i.postimg.cc/j5CfRmyX/pngwing-com-8.png",
+        "price": "7500"
+      }
+    ],
+    "cart": [
+      {
+        "id": "3263",
+        "title": "Nike Shoe",
+        "url": "https://i.postimg.cc/nrwcWRPD/pngegg.png",
+        "price": "3000",
+        "qty": 1
+      }
+    ]
+  }
